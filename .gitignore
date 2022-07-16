@@ -1,0 +1,9 @@
+data/
+
+models/
+
+runs/
+
+.git
+
+.ipynb_checkpoints
